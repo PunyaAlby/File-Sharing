@@ -29,7 +29,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PunyaAlby/File-Sharing)</br>
 
 ### Deploy on Bot Heroku
-<p><a href="https://telegram.dog/XTZ_HerokuBot?start=QXlpaW5YZC9BeWlpbi1Vc2VyYm90IEF5aWluLVVzZXJib3Q"><img src="https://img.shields.io/badge/BOT HEROKU-blue?style=plastic&logo=heroku&logoColor=gold"width="147" height="25" /></a></p>
+<p><a href="https://telegram.dog/XTZ_HerokuBot?start=UHVueWFBbGJ5L0ZpbGUtU2hhcmluZyBtYXN0ZXI"><img src="https://img.shields.io/badge/BOT HEROKU-blue?style=plastic&logo=heroku&logoColor=gold"width="147" height="25" /></a></p>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
